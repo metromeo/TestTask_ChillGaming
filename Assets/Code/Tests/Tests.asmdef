@@ -1,0 +1,19 @@
+{
+    "name": "UnitTests",
+    "references": [
+        "GUID:1ffa82d420b2f7e458a89dd68b86ca5a",
+        "GUID:a2f2239355369ba4fb6909aeaa41def5",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
